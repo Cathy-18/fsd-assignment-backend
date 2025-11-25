@@ -83,10 +83,8 @@ Other sample items you can add:
    - POST /items → add new item
    - DELETE /items/:id → delete an item
 
-2. Save all requests in a Postman collection.
-
-3. Export the collection or take screenshots and include them in your submission.
-
+2. You can access and import the Postman collection for this project here:  
+[Postman Collection Link](https://catherinenixon1b30-2344390.postman.co/workspace/4a5ab8bb-c55a-43ef-8409-a42d9fcc0ca7/collection/50330994-75edf77d-290c-458a-8fb6-e3591d4c9138?action=share&source=copy-link&creator=50330994)
 ---
 
 ## Notes
