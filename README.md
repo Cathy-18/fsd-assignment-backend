@@ -6,7 +6,7 @@ Build a backend using ExpressJS, connect to MongoDB using Mongoose, and test API
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone <your-github-repo-url>
+   git clone <your-github-repo-url>(https://github.com/Cathy-18/fsd-assignment-backend)
 
 2. Install dependencies:
    npm install
